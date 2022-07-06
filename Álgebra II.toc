@@ -1,0 +1,30 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Combinatoria y teor\IeC {\'\i }a elemental de grafos}{2}% 
+\contentsline {section}{\numberline {2}Grupos: definici\IeC {\'o}n y ejemplos}{3}% 
+\contentsline {subsection}{\numberline {2.1}Anillos}{6}% 
+\contentsline {subsection}{\numberline {2.2}Grupos Sim\IeC {\'e}tricos}{9}% 
+\contentsline {subsection}{\numberline {2.3}Grupos Di\IeC {\'e}dricos}{16}% 
+\contentsline {subsection}{\numberline {2.4}Grupo de los cuaternios}{21}% 
+\contentsline {subsection}{\numberline {2.5}El grupo de Klein}{22}% 
+\contentsline {subsection}{\numberline {2.6}Homomorfismos}{23}% 
+\contentsline {subsection}{\numberline {2.7}Ejercicios}{26}% 
+\contentsline {section}{\numberline {3}Subgrupos. Generadores. Ret\IeC {\'\i }culos}{30}% 
+\contentsline {subsection}{\numberline {3.1}Subgrupos}{30}% 
+\contentsline {subsection}{\numberline {3.2}Grupos Alternados}{32}% 
+\contentsline {subsection}{\numberline {3.3}Subgrupos c\IeC {\'\i }clicos}{38}% 
+\contentsline {subsection}{\numberline {3.4}Conjuntos cocientes}{42}% 
+\contentsline {subsection}{\numberline {3.5}Orden}{45}% 
+\contentsline {subsection}{\numberline {3.6}Ejercicios}{50}% 
+\contentsline {section}{\numberline {4}Grupos cocientes. Teoremas de isomorf\IeC {\'\i }a}{55}% 
+\contentsline {subsection}{\numberline {4.1}Subgrupos normales}{55}% 
+\contentsline {subsection}{\numberline {4.2}Grupo Cociente}{58}% 
+\contentsline {subsection}{\numberline {4.3}Producto directo de grupos}{69}% 
+\contentsline {section}{\numberline {5}Grupos resolubles}{75}% 
+\contentsline {subsection}{\numberline {5.1}Grupos resolubles}{86}% 
+\contentsline {subsection}{\numberline {5.2}Conmutadores}{90}% 
+\contentsline {subsection}{\numberline {5.3}Ejercicios}{92}% 
+\contentsline {section}{\numberline {6}G-conjuntos y p-grupos}{93}% 
+\contentsline {subsection}{\numberline {6.1}Teoremas de Sylow}{105}% 
+\contentsline {subsection}{\numberline {6.2}Ejercicios}{110}% 
+\contentsline {section}{\numberline {7}Clasificaci\IeC {\'o}n de grupos abelianos finitos}{112}% 
+\contentsline {section}{\numberline {8}Presentaciones de grupos. Productos semidirectos. Clasificaci\IeC {\'o}n de grupos de orden bajo ($\leq 5$)}{121}% 
